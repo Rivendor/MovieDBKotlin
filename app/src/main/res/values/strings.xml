@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="home_fragment_text">Home</string>
+    <string name="movie_fragment_text">Movie</string>
+    <string name="home_to_movie_button_text">Go to Movie</string>
+    <string name="app_title">Movie DataBase</string>
+</resources>
